@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/src/main/java/jp/marisa
+END
+MarisaConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/main/java/jp/marisa/MarisaConfiguration.java
+END
+AgentNative.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/main/java/jp/marisa/AgentNative.java
+END
+TrieNative.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/src/main/java/jp/marisa/TrieNative.java
+END
+KeysetNative.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/main/java/jp/marisa/KeysetNative.java
+END
+MarisaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/main/java/jp/marisa/MarisaException.java
+END
+QueryNative.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/main/java/jp/marisa/QueryNative.java
+END
+Marisa.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/src/main/java/jp/marisa/Marisa.java
+END
+OSInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/src/main/java/jp/marisa/OSInfo.java
+END
+KeyNative.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/src/main/java/jp/marisa/KeyNative.java
+END
+MarisaLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/main/java/jp/marisa/MarisaLoader.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/COPYING
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/README
+END

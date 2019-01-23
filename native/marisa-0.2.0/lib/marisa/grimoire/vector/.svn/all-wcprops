@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/vector
+END
+precomputed-table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/vector/precomputed-table.cc
+END
+bit-vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/vector/bit-vector.cc
+END
+precomputed-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/vector/precomputed-table.h
+END
+bit-vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/vector/bit-vector.h
+END
+rank-index.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/vector/rank-index.h
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/vector/vector.h
+END
+pop-count.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/vector/pop-count.h
+END
+flat-vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/vector/flat-vector.h
+END

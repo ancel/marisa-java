@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa
+END
+key.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/key.h
+END
+scoped-array.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/scoped-array.h
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/base.h
+END
+agent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/agent.cc
+END
+agent.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/agent.h
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/exception.h
+END
+scoped-ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/scoped-ptr.h
+END
+trie.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/trie.cc
+END
+stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/stdio.h
+END
+keyset.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/keyset.cc
+END
+iostream.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/iostream.h
+END
+trie.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/trie.h
+END
+keyset.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/keyset.h
+END
+query.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/query.h
+END

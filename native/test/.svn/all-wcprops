@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/6/trunk/native/test
+END
+lookup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6/trunk/native/test/lookup.cpp
+END
+predict.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/6/trunk/native/test/predict.cpp
+END
+build.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/native/test/build.cpp
+END

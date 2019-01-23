@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/6/trunk/native/src
+END
+TrieNative.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/native/src/TrieNative.h
+END
+KeyNative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6/trunk/native/src/KeyNative.cpp
+END
+KeysetNative.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/native/src/KeysetNative.h
+END
+QueryNative.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/native/src/QueryNative.h
+END
+KeyNative.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/native/src/KeyNative.h
+END
+AgentNative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/native/src/AgentNative.cpp
+END
+TrieNative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6/trunk/native/src/TrieNative.cpp
+END
+AgentNative.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/native/src/AgentNative.h
+END
+KeysetNative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/native/src/KeysetNative.cpp
+END
+QueryNative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/native/src/QueryNative.cpp
+END

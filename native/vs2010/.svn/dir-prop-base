@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 130
+ipch
+Debug-Win32
+Debug-Win64
+Release-Win32
+Release-Win64
+marisa-java.sdf
+marisa-java.sln
+marisa-java.suo
+marisa-java.vcxproj.user
+
+END

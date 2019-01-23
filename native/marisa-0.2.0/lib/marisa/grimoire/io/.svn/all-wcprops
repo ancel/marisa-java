@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/io
+END
+writer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/io/writer.cc
+END
+writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/io/writer.h
+END
+reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/io/reader.cc
+END
+mapper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/io/mapper.cc
+END
+reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/io/reader.h
+END
+mapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa/grimoire/io/mapper.h
+END

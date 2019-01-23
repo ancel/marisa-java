@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/Makefile.am
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/Makefile.in
+END
+marisa.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14/trunk/native/marisa-0.2.0/lib/marisa.h
+END
