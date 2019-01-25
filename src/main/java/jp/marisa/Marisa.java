@@ -12,6 +12,7 @@
  *--------------------------------------------------------------------------*/
 package jp.marisa;
 
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
@@ -59,13 +60,15 @@ public class Marisa implements java.io.Closeable {
 	@SuppressWarnings("unused")
 	private static MarisaLoader loader = new MarisaLoader();
 	
-	private TrieNative trie;
-	private java.nio.charset.Charset charset;
-	private java.nio.charset.Charset environmentCharset;
+	protected TrieNative trie;
+	protected KeysetNative keyset;
+	protected java.nio.charset.Charset charset;
+	protected java.nio.charset.Charset environmentCharset;
 
 	public Marisa() {
         try {
         	this.trie = new TrieNative();
+        	this.keyset = new KeysetNative();
         } catch (Exception ex) {
         	ex.printStackTrace();
         	return;
@@ -107,6 +110,16 @@ public class Marisa implements java.io.Closeable {
 		}
 	}
 	
+	public void push_back(String key) throws MarisaException, UnsupportedEncodingException{
+		this.keyset.push_back(key.getBytes("UTF-8"));
+	}
+	public void build(){
+		try {
+			this.trie.build(this.keyset);
+		} finally {
+			this.keyset.dispose();
+		}
+	}
 	public void build(Collection<String> keys) {
 		KeysetNative keyset = new KeysetNative();
 		try {
@@ -130,7 +143,13 @@ public class Marisa implements java.io.Closeable {
 		byte[] bytes = fileName.getBytes(this.getEnvironmentCharset());
 		this.trie.save(bytes);
 	}
-	
+	public boolean contain(String key){
+		IdKeyPair idKeyPair = lookup(key);
+		if(null==idKeyPair){
+			return false;
+		}
+		return true;
+	}
 	public IdKeyPair lookup(String key) {
 		return lookup(key, 0);
 	}

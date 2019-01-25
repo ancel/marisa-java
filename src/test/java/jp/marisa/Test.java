@@ -26,7 +26,7 @@ public class Test {
 			List<String> list = new ArrayList<String>();
 			int num = 0;
 			while((line=br.readLine())!=null){
-				if(num>=1000009){
+				if(num>=100000){
 					break;
 				}
 				line = line.trim();
@@ -52,6 +52,16 @@ public class Test {
 			System.out.println(ids.size());
 			System.out.println(Collections.max(ids));
 			System.out.println(Collections.min(ids));
+			List<IdKeyPair> idKeyPairs = marisa.predictiveSearch("010-1");
+			for (IdKeyPair idKeyPair : idKeyPairs) {
+				System.out.println(idKeyPair.Key);
+			}
+			System.out.println(idKeyPairs.size());
+			idKeyPairs = marisa.commonPrefixSearch("010-58693355");
+			for (IdKeyPair idKeyPair : idKeyPairs) {
+				System.out.println(idKeyPair.Key);
+			}
+			System.out.println(idKeyPairs.size());
 			
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
