@@ -101,6 +101,14 @@ public class Marisa implements java.io.Closeable {
 	public void setTrie(TrieNative trie) {
 		this.trie = trie;
 	}
+	
+	public KeysetNative getKeyset() {
+		return keyset;
+	}
+
+	public void setKeyset(KeysetNative keyset) {
+		this.keyset = keyset;
+	}
 
 	public int size() {
 		try {
